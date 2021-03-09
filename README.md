@@ -6,7 +6,7 @@ All seven flights appear to have been flown with the P-3B aircraft. I am not sur
 
 ![IMPACTS Flight 5 from Wallops to the midwest](https://raw.githubusercontent.com/alexkenan/nasa_impacts/main/img/flight5.png "Flight 5")
 
-Pictured is Flight 5, an investigation of a Shallow Frontal Zone over the Midwest with snowbands, which occurred on February 5th, 2020. A
+Pictured is Flight 5, an investigation of a Shallow Frontal Zone over the Midwest with snowbands, which occurred on February 5th, 2020.
 
 There is a NASA "micro-article" [here](https://ghrc.nsstc.nasa.gov/home/micro-articles/investigation-microphysics-and-precipitation-atlantic-coast-threatening-snowstorms) that contains more information. The raw data is available at the [GitHub repo]() and available from the [Data Catalog](https://catalog.data.gov/dataset/p-3-meteorological-and-navigation-data-impacts-v1).
 
