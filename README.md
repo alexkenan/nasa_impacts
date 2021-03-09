@@ -4,7 +4,7 @@ The Investigation of Microphysics and Precipitation for Atlantic Coast-Threateni
 
 All seven flights appear to have been flown with the P-3B aircraft. I am not sure how COVID-19 impacted this project, but I am sure it had an effect. The P-3B is based at Wallops Flight Facility on the eastern shore of Virginia.
 
-![IMPACTS Flight 5 from Wallops to the midwest](https://github.com/ "Flight 5")
+![IMPACTS Flight 5 from Wallops to the midwest](https://raw.githubusercontent.com/alexkenan/nasa_impacts/main/img/flight5.png "Flight 5")
 
 Pictured is Flight 5, an investigation of a Shallow Frontal Zone over the Midwest with snowbands, which occurred on February 5th, 2020. A
 
