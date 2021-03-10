@@ -1,8 +1,8 @@
 # IMPACTS
 
-The Investigation of Microphysics and Precipitation for Atlantic Coast-Threatening Snowstorms (**IMPACTS**) is the first comprehensive study of East Coast snowstorms in 30 years. It uses NASA's [ER-2](https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-046-DFRC.html) and [P-3B](https://www.nasa.gov/mission_pages/icebridge/instruments/p3b.html) aircraft for high and low altitude sensing, respectively. The first deployment began on January 17, 2020 and ended on March 1, 2020. IMPACTS samples U.S. East Coast winter storms from microphysics probes and dropsonde capabilities on the P-3, augmented by ground-based radar, multiple NASA and NOAA satellites (including GPM, GOES-16, and the Joint Polar Satellite System (JPSS)), and computer simulations. 
+The Investigation of Microphysics and Precipitation for Atlantic Coast-Threatening Snowstorms (**IMPACTS**) is the first comprehensive study of East Coast snowstorms in 30 years. It uses NASA's [ER-2](https://www.nasa.gov/centers/armstrong/news/FactSheets/FS-046-DFRC.html) and [P-3B](https://www.nasa.gov/mission_pages/icebridge/instruments/p3b.html) aircraft for high and low altitude sensing, respectively. It is structured into three deployments that will take place between 2020 and 2022. The first deployment began on January 17, 2020 and ended on March 1, 2020. IMPACTS samples U.S. East Coast winter storms from microphysics probes and dropsonde capabilities on the P-3, augmented by ground-based radar, multiple NASA and NOAA satellites (including GPM, GOES-16, and the Joint Polar Satellite System (JPSS)), and computer simulations. 
 
-I am not sure how COVID-19 impacted this project, but I am sure it had an effect. The P-3B is based at Wallops Flight Facility on the eastern shore of Virginia, and the ER-2 is based at Edwards Air Force Base in California but was temporarily staged in Savannah, Georgia for this research study.
+The P-3B is based at Wallops Flight Facility on the eastern shore of Virginia, and the ER-2 is based at Edwards Air Force Base in California but was temporarily staged in Savannah, Georgia for this research study.
 
 
 #### P-3B Flight
