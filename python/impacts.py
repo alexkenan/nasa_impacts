@@ -36,8 +36,11 @@ list_of_files = [
 
 for i in range(len(list_of_files)):
     df = pd.read_csv(list_of_files[i])
+    
+    # next two lines are necessary to eliminate position data errors
     df['Longitude'] = df['Longitude'].replace(-9999.0, None)
     df['Latitude'] = df['Latitude'].replace(-9999.0, None)
+    
     fig = go.Figure()
     counter = 30
     fig.add_trace(go.Scattermapbox(mode="lines", lat=df['Latitude'].dropna(),
