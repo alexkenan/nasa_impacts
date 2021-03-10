@@ -36,18 +36,21 @@ list_of_files = [
 
 for i in range(len(list_of_files)):
     df = pd.read_csv(list_of_files[i])
+    df['Longitude'] = df['Longitude'].replace(-9999.0, None)
+    df['Latitude'] = df['Latitude'].replace(-9999.0, None)
     fig = go.Figure()
     counter = 30
-    fig.add_trace(go.Scattermapbox(mode="lines", lon=df['Longitude'], lat=df['Latitude'], showlegend=False,
+    fig.add_trace(go.Scattermapbox(mode="lines", lat=df['Latitude'].dropna(),
+                                   lon=df['Longitude'].dropna(), showlegend=False,
                                    line={'color': 'gray'},
                                    name=""))
-    fig.add_trace(go.Scattermapbox(mode="markers+lines", lon=df['Longitude'].head(counter),
-                                   lat=df['Latitude'].head(counter),
+    fig.add_trace(go.Scattermapbox(mode="markers+lines", lon=df['Longitude'].head(counter).dropna(),
+                                   lat=df['Latitude'].head(counter).dropna(),
                                    showlegend=True,
                                    marker={'size': 6, 'color': 'blue'},
                                    name="Start"))
-    fig.add_trace(go.Scattermapbox(mode="markers+lines", lon=df['Longitude'].tail(counter),
-                                   lat=df['Latitude'].tail(counter),
+    fig.add_trace(go.Scattermapbox(mode="markers+lines", lon=df['Longitude'].tail(counter).dropna(),
+                                   lat=df['Latitude'].tail(counter).dropna(),
                                    showlegend=True,
                                    marker={'size': 6, 'color': 'red'},
                                    name="End"))
