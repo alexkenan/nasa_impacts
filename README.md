@@ -8,13 +8,13 @@ The P-3B is based at Wallops Flight Facility on the eastern shore of Virginia, a
 #### P-3B Flight
 ![IMPACTS P-3B Flight 5 from Wallops to the midwest](https://raw.githubusercontent.com/alexkenan/nasa_impacts/main/img/flight5_p3b.png "Flight 5 P-3B")
 
-*Pictured is P-3B Flight 5, an investigation of a Shallow Frontal Zone over the Midwest with snowbands, which occurred on February 5th, 2020.*
+*Pictured is P-3B's track for Flight 5, an investigation of a Shallow Frontal Zone over the Midwest with snowbands, which occurred on February 5th, 2020.*
 
 
 #### ER-2 Flight
 <img src="https://raw.githubusercontent.com/alexkenan/nasa_impacts/main/img/flight5_er2.png" alt="IMPACTS ER-2 Flight 5 from Savannah to the midwest" width="50%" height="50%">
 
-*Pictured is ER-2 Flight 5, an investigation of a Shallow Frontal Zone over the Midwest with snowbands, which occurred on February 5th, 2020.*
+*The ER-2 surveyed the same area during Flight 5.*
 
 #### Combined Flight 5
 
